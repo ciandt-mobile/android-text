@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Text</string>
+    <string name="montserrat">Montserrat</string>
+    <string name="montserrat_italic">Montserrat Italic</string>
+    <string name="montserrat_bold">Montserrat Bold</string>
+    <string name="montserrat_bold_italic">Montserrat Bold Italic</string>
+    <string name="roboto">Roboto</string>
+    <string name="quicksand">Quicksand</string>
+    <string name="autosize">autosize</string>
+    <string name="hello">Hello!</string>
+    <string name="reset_size">reset size</string>
+</resources>

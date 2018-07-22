@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextAppearance.Montserrat" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/montserrat</item>
+    </style>
+    <style name="TextAppearance.Montserrat.Italic" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="TextAppearance.Montserrat.Bold" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextAppearance.Montserrat.Bold.Italic" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+    <style name="TextAppearance.Roboto" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+    </style>
+    <style name="TextAppearance.Quicksand" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/quicksand_regular</item>
+    </style>
+</resources>
